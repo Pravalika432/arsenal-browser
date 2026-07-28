@@ -205,7 +205,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [Electron](https://www.electronjs.org/) - Framework
 - [Google Generative AI](https://ai.google.dev/) - Gemini SDK
